@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\obj\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\obj\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\obj\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\bin\Debug\netcoreapp3.0\WiProLocadora.Domain.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\bin\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.deps.json
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\bin\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\bin\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\bin\Debug\netcoreapp3.0\WiProLocadora.Domain.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\obj\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.csproj.CopyComplete
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\obj\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Infrastructure\obj\Debug\netcoreapp3.0\WiProLocadora.Infrastructure.pdb

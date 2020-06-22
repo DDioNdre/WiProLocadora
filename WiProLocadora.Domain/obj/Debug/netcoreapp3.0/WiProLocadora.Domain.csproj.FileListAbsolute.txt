@@ -1,0 +1,8 @@
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\obj\Debug\netcoreapp3.0\WiProLocadora.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\obj\Debug\netcoreapp3.0\WiProLocadora.Domain.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\bin\Debug\netcoreapp3.0\WiProLocadora.Domain.deps.json
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\bin\Debug\netcoreapp3.0\WiProLocadora.Domain.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\bin\Debug\netcoreapp3.0\WiProLocadora.Domain.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\obj\Debug\netcoreapp3.0\WiProLocadora.Domain.dll
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\obj\Debug\netcoreapp3.0\WiProLocadora.Domain.pdb
+C:\Users\diego\OneDrive\Documentos\GitHub\WiProLocadora\WiProLocadora.Domain\obj\Debug\netcoreapp3.0\WiProLocadora.Domain.csprojAssemblyReference.cache
